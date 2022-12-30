@@ -1,6 +1,6 @@
 """Config file: here resides the bot token"""
 
-TOKEN = "tokenplaceholder"
+TOKEN = "5691957558:AAF_aVhKf1DiriXEUbEQmIc3iuKiqz_8r44"
 OWNER_ID = 1234567890
 OFFLINE_ANTIFLOOD_TIMEOUT = 300
 UPDATES_TIMEOUT = 50
